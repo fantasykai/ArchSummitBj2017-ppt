@@ -12,7 +12,6 @@
 
 邓志东 / 清华大学 计算机系教授&博士生导师
 
-2017-12-08
 
 ![lecturer avatar](http://static.geekbang.org/ck/59f7d5eaae5d1.jpg?imageView2/0/w/100)
 
@@ -20,15 +19,12 @@
 
 诸葛越 / Hulu 全球副总裁
 
-2017-12-08
-
 ![lecturer avatar](http://static.geekbang.org/ck/5a0e562b608b1.png?imageView2/0/w/100)
 
 阿里巴巴云化架构创新之路
 
 丁宇（叔同） / 阿里巴巴 2017天猫双11技术大队长&资深技术专家
 
-2017-12-08
 
 #### Fintech技术突围之道（解决方案专场）
 
@@ -38,23 +34,17 @@
 
 石伟 / 付钱拉 高级架构师
 
-2017-12-08
-
 ![lecturer avatar](http://static.geekbang.org/ck/5a1b773c9eb87.jpg?imageView2/0/w/100)
 
 金融场景分布式数据库强一致保证
 
 钱煜明 / 中兴通讯 首席架构师
 
-2017-12-08
-
 ![lecturer avatar](http://static.geekbang.org/ck/5a18149a2afbc.jpg?imageView2/0/w/100)
 
 守住Fintech这扇门：高可用测试平台演进之路
 
 孙鹰 / 宜信 翼启云高级测试专家
-
-2017-12-08
 
 #### 数据库架构
 
@@ -64,15 +54,11 @@ MySQL数据库架构的演化观察
 
 褚霸（余锋） / 阿里巴巴 研究员
 
-2017-12-08
-
 ![lecturer avatar](http://static.geekbang.org/ck/5a0d1e2552363.png?imageView2/0/w/100)
 
 PaxosStore：微信高可用、强一致存储系统
 
 郑建军 / 腾讯 高级工程师
-
-2017-12-08
 
 #### 架构升级与优化
 
@@ -82,23 +68,17 @@ PaxosStore：微信高可用、强一致存储系统
 
 邢常亮 / 爱奇艺 技术总监
 
-2017-12-08
-
 ![lecturer avatar](http://static.geekbang.org/ck/59ed634365261.png?imageView2/0/w/100)
 
 滴滴出行平台的高可用实践
 
 彭令鹏 / 滴滴出行 平台技术部高级技术专家
 
-2017-12-08
-
 ![lecturer avatar](http://static.geekbang.org/ck/59abed5654229.png?imageView2/0/w/100)
 
 C2C电商平台推荐系统架构演进
 
 张相於 / 转转 推荐算法部技术负责人&资深架构师
-
-2017-12-08
 
 #### 金融应用架构
 
@@ -108,15 +88,11 @@ C2C电商平台推荐系统架构演进
 
 曹若沈 / PayPal 风控数据平台软件研发经理
 
-2017-12-08
-
 ![lecturer avatar](http://static.geekbang.org/ck/59c8cde3412da.png?imageView2/0/w/100)
 
 信贷业务持续创新当中的大数据风控架构
 
 张军 / 宜信 工程总监
-
-2017-12-08
 
 ![lecturer avatar](http://static.geekbang.org/ck/5a0c0ef2d8af0.jpg?imageView2/0/w/100)
 
@@ -124,15 +100,11 @@ C2C电商平台推荐系统架构演进
 
 尹茂君 / 趣店 技术工程部资深架构师
 
-2017-12-08
-
 ![lecturer avatar](http://static.geekbang.org/ck/59fa8fae48a1e.jpg?imageView2/0/w/100)
 
 凤凰涅磐：陆金所金融平台的架构大升级
 
 卢峻 / 陆金所 平台科技中心总监
-
-2017-12-08
 
 #### 互联网视频技术架构：优化和创新
 
@@ -142,15 +114,11 @@ C2C电商平台推荐系统架构演进
 
 沈悦时 / Twitch Principal Research Engineer
 
-2017-12-08
-
 ![lecturer avatar](http://static.geekbang.org/ck/5a124b62d724d.jpg?imageView2/0/w/100)
 
 大闹天宫：悟空在FFmpeg社区从入门到出家
 
 刘歧 / OnVideo 联合创始人
-
-2017-12-08
 
 #### 云化架构的创新实践（阿里技术专场）
 
@@ -160,7 +128,6 @@ C2C电商平台推荐系统架构演进
 
 张瓅玶 / 阿里巴巴 系统软件部研究员
 
-2017-12-08
 
 ![lecturer avatar](http://static.geekbang.org/ck/5a1bfba740fb7.png?imageView2/0/w/100)
 
@@ -168,15 +135,12 @@ C2C电商平台推荐系统架构演进
 
 吕奇 / 阿里巴巴 高级技术专家
 
-2017-12-08
 
 ![lecturer avatar](http://static.geekbang.org/ck/5a1cdf3116d6e.jpg?imageView2/0/w/100)
 
 Pouch和阿里容器技术演进
 
 侯前明 / 阿里巴巴 系统软件部资深技术专家
-
-2017-12-08
 
 #### 架构创新与演进（解决方案专场）
 
@@ -186,7 +150,7 @@ Cloud Native架构的演进之路
 
 代闻 / AWS 解决方案架构团队技术经理
 
-2017-12-08
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/5a1bdd6b7952d.jpg?imageView2/0/w/100)
 
@@ -194,7 +158,7 @@ FreeWheel在微服务架构下的前端改造实践
 
 宋一玮 / FreeWheel 主任工程师
 
-2017-12-08
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/5a1be6767ad64.jpg?imageView2/0/w/100)
 
@@ -202,7 +166,7 @@ FreeWheel在微服务架构下的前端改造实践
 
 崔建兴 / 新浪微博 广告业务部技术专家
 
-2017-12-08
+
 
 #### 深入机器学习
 
@@ -212,7 +176,7 @@ FreeWheel在微服务架构下的前端改造实践
 
 邱锡鹏 / 复旦大学 计算机科学技术学院副教授，博士生导师
 
-2017-12-08
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/5a1e7e6c6557f.jpg?imageView2/0/w/100)
 
@@ -220,7 +184,7 @@ PaddlePaddle: Towards a Deep Learning Compiler for the Cloud
 
 于洋 / 百度 资深工程师
 
-2017-12-08
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/59e84581e4e4b.jpg?imageView2/0/w/100)
 
@@ -228,7 +192,7 @@ PaddlePaddle: Towards a Deep Learning Compiler for the Cloud
 
 张佶 / 阿里巴巴 智能服务事业部算法专家
 
-2017-12-08
+
 
 #### 大前端技术与管理
 
@@ -238,7 +202,7 @@ PaddlePaddle: Towards a Deep Learning Compiler for the Cloud
 
 胡彪 / 饿了么 移动技术总监
 
-2017-12-08
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/59fabd48e39a2.jpg?imageView2/0/w/100)
 
@@ -246,7 +210,7 @@ PaddlePaddle: Towards a Deep Learning Compiler for the Cloud
 
 朱君标 / 菜鸟网络 平台技术部-体验技术高级前端开发专家
 
-2017-12-08
+
 
 #### 互联网产品与创业
 
@@ -256,7 +220,7 @@ PaddlePaddle: Towards a Deep Learning Compiler for the Cloud
 
 谢呈 / 北京木仓科技(驾考宝典) 副总裁
 
-2017-12-08
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/59ef0ca440a1d.png?imageView2/0/w/100)
 
@@ -264,7 +228,7 @@ PaddlePaddle: Towards a Deep Learning Compiler for the Cloud
 
 王守崑 / 爱因互动 创始人&CEO
 
-2017-12-08
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/5a1527543fc0b.png?imageView2/0/w/100)
 
@@ -272,7 +236,7 @@ PaddlePaddle: Towards a Deep Learning Compiler for the Cloud
 
 赵懿 / 美丽联合集团 导购事业部产品部负责人
 
-2017-12-08
+
 
 #### 国际化架构设计
 
@@ -282,7 +246,7 @@ PaddlePaddle: Towards a Deep Learning Compiler for the Cloud
 
 陈宁国 / 腾讯 计费平台首席架构师
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/59f05d6f7726a.jpg?imageView2/0/w/100)
 
@@ -290,7 +254,7 @@ PaddlePaddle: Towards a Deep Learning Compiler for the Cloud
 
 范同祥 / 摩拜单车 首席架构师
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/5a23a3a10c8c7.jpg?imageView2/0/w/100)
 
@@ -298,7 +262,7 @@ PaddlePaddle: Towards a Deep Learning Compiler for the Cloud
 
 刘峻桦 / 京东 网站平台首席架构师
 
-2017-12-09
+
 
 #### 人工智能与业务应用
 
@@ -308,7 +272,7 @@ PaddlePaddle: Towards a Deep Learning Compiler for the Cloud
 
 李维（博士） / 京东硅谷研究院 主任研究员
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/59c8fd660c90f.jpg?imageView2/0/w/100)
 
@@ -316,7 +280,7 @@ PaddlePaddle: Towards a Deep Learning Compiler for the Cloud
 
 张宇韬 / 清华大学 科技大数据研究中心 首席研究员
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/59e0ac108941c.jpg?imageView2/0/w/100)
 
@@ -324,7 +288,7 @@ PaddlePaddle: Towards a Deep Learning Compiler for the Cloud
 
 魏旋 / 瓜子二手车 技术部智能平台首席数据科学家
 
-2017-12-09
+
 
 #### 新一代DevOps
 
@@ -334,7 +298,7 @@ PaddlePaddle: Towards a Deep Learning Compiler for the Cloud
 
 李培龙 / 滴滴出行 质量部高级专家工程师&架构团队负责人
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/59c382cd866a8.png?imageView2/0/w/100)
 
@@ -342,7 +306,7 @@ PaddlePaddle: Towards a Deep Learning Compiler for the Cloud
 
 张娟（希宁） / 阿里巴巴 资深运维
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/59db8baf53e02.jpg?imageView2/0/w/100)
 
@@ -350,7 +314,7 @@ PaddlePaddle: Towards a Deep Learning Compiler for the Cloud
 
 杨波 / 拍拍贷 技术中心框架研发部总监
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/59c2779d9a67c.png?imageView2/0/w/100)
 
@@ -358,7 +322,7 @@ PaddlePaddle: Towards a Deep Learning Compiler for the Cloud
 
 王肇刚 / 阿里巴巴 高级技术专家
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/59df474fcfc3a.jpg?imageView2/0/w/100)
 
@@ -366,7 +330,7 @@ PaddlePaddle: Towards a Deep Learning Compiler for the Cloud
 
 胡忠想 / 微博 服务化项目架构师&技术负责人
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/5a1bfed051104.jpg?imageView2/0/w/100)
 
@@ -374,7 +338,7 @@ PaddlePaddle: Towards a Deep Learning Compiler for the Cloud
 
 闫二辉 / 腾讯 专家工程师
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/59db8baf53e02.jpg?imageView2/0/w/100)
 
@@ -382,7 +346,7 @@ PaddlePaddle: Towards a Deep Learning Compiler for the Cloud
 
 杨波 / 拍拍贷 技术中心框架研发部总监
 
-2017-12-09
+
 
 #### 大数据与云原生（解决方案专场）
 
@@ -392,7 +356,7 @@ RadonDB: 新一代分布式关系型数据库
 
 张雁飞 / 青云 数据库高级技术专家
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/5a1be03c4d8d8.jpg?imageView2/0/w/100)
 
@@ -400,7 +364,7 @@ RadonDB: 新一代分布式关系型数据库
 
 宋净超 / TalkingData 容器平台负责人
 
-2017-12-09
+
 
 #### 大数据平台架构
 
@@ -410,7 +374,7 @@ RadonDB: 新一代分布式关系型数据库
 
 吴惠君 / Twitter Data Platform Engineer
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/59ae05819c3df.png?imageView2/0/w/100)
 
@@ -418,7 +382,7 @@ RadonDB: 新一代分布式关系型数据库
 
 牟宇航 / 百度 大数据部技术经理
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/59fadb986f48c.jpg?imageView2/0/w/100)
 
@@ -426,7 +390,7 @@ RadonDB: 新一代分布式关系型数据库
 
 孙业锐 / 美团点评 高级技术专家&Apache Kylin PMC
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/59edb3609de1c.jpg?imageView2/0/w/100)
 
@@ -434,7 +398,7 @@ FreeWheel OLAP实践
 
 姜冰 / FreeWheel 数据平台首席工程师
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/5a0cf8f2eded3.jpg?imageView2/0/w/100)
 
@@ -442,7 +406,7 @@ FreeWheel OLAP实践
 
 赵宏伟 / 恒丰银行 科技开发部高级经理
 
-2017-12-09
+
 
 #### 容器云平台运维（解决方案专场）
 
@@ -452,7 +416,7 @@ FreeWheel OLAP实践
 
 苌程 / 谐云科技 VP
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/5a1be2163edd9.png?imageView2/0/w/100)
 
@@ -460,7 +424,7 @@ FreeWheel OLAP实践
 
 张振华 / 美丽联合集团 高级技术专家
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/5a1be2163edd9.png?imageView2/0/w/100)
 
@@ -468,7 +432,7 @@ FreeWheel OLAP实践
 
 张振华 / 美丽联合集团 高级技术专家
 
-2017-12-09
+
 
 #### 业务系统架构的蜕变与进化
 
@@ -478,7 +442,7 @@ FreeWheel OLAP实践
 
 王旻 / 腾讯云 高级技术专家
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/599a87951882b.png?imageView2/0/w/100)
 
@@ -486,7 +450,7 @@ FreeWheel OLAP实践
 
 黄斯亮 / 腾讯音乐 后台技术总监
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/59daba5c65b9b.jpg?imageView2/0/w/100)
 
@@ -494,7 +458,7 @@ FreeWheel OLAP实践
 
 姚钢强 / 知乎 首页组&技术负责人
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/59fa7a6bb41b1.png?imageView2/0/w/100)
 
@@ -502,7 +466,7 @@ FreeWheel OLAP实践
 
 周光 / 京东商城 研发部架构师
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/59f2e09be8704.jpg?imageView2/0/w/100)
 
@@ -510,7 +474,7 @@ FreeWheel OLAP实践
 
 沈剑 / 58速运 CTO
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/5a0ea30042579.jpg?imageView2/0/w/100)
 
@@ -518,7 +482,7 @@ musical.ly基于社交关系的Smart Feed架构
 
 杜鹏 / musical.ly 技术部高级Java架构师
 
-2017-12-09
+
 
 #### 移动开发工程化实践
 
@@ -528,7 +492,7 @@ musical.ly基于社交关系的Smart Feed架构
 
 梁士兴 / 美团点评 研究员
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/5a05a7e1724dc.jpg?imageView2/0/w/100)
 
@@ -536,7 +500,7 @@ musical.ly基于社交关系的Smart Feed架构
 
 王涛 / 滴滴出行 平台技术部 App架构组 架构师
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/59f07b3509991.jpg?imageView2/0/w/100)
 
@@ -544,7 +508,7 @@ musical.ly基于社交关系的Smart Feed架构
 
 王秀刚 / 京东金融 移动研发部 客户端iOS团队负责人&高级架构师
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/59f2976144f97.jpg?imageView2/0/w/100)
 
@@ -552,7 +516,7 @@ UC浏览器容器化架构演进之路
 
 顾辉 / 阿里巴巴 高级技术专家
 
-2017-12-09
+
 
 #### 内容分发与精准推荐
 
@@ -562,7 +526,7 @@ UC浏览器容器化架构演进之路
 
 马艳军 / 百度 首页业务部主任研发架构师
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/5a24b584dad20.jpg?imageView2/0/w/100)
 
@@ -570,7 +534,7 @@ UberEats Discovery: Food Recommendation
 
 Yuanchi Ning / Uber Eats Senior Software Engineer
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/59cb071a31b40.jpg?imageView2/0/w/100)
 
@@ -578,7 +542,7 @@ Yuanchi Ning / Uber Eats Senior Software Engineer
 
 李北涛 / Tumblr 数据科学总监
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/5a0519c47bb4d.jpg?imageView2/0/w/100)
 
@@ -586,7 +550,7 @@ Yuanchi Ning / Uber Eats Senior Software Engineer
 
 李玉 / 优酷 数据智能部总监
 
-2017-12-09
+
 
 #### 工程师文化与团队建设
 
@@ -596,7 +560,7 @@ Yuanchi Ning / Uber Eats Senior Software Engineer
 
 郑斌 / Amazon（亚马逊） 中国研发中心开发总监
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/59d419b05674c.jpg?imageView2/0/w/100)
 
@@ -604,7 +568,7 @@ Yuanchi Ning / Uber Eats Senior Software Engineer
 
 马晋 / 百度网页搜索部 主任研发架构师
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/59f98d69b6ec7.jpg?imageView2/0/w/100)
 
@@ -612,7 +576,7 @@ Yuanchi Ning / Uber Eats Senior Software Engineer
 
 陈晨 / Senior Director of Engineering @ Reddit
 
-2017-12-09
+
 
 ![lecturer avatar](http://static.geekbang.org/ck/59e42bbce9343.jpg?imageView2/0/w/100)
 
@@ -620,7 +584,7 @@ Yuanchi Ning / Uber Eats Senior Software Engineer
 
 王昊 / bilibili 主站技术中心总经理
 
-2017-12-09
+
 
 #### 微服务架构
 
@@ -630,7 +594,7 @@ tutorabc微服务平台架构实践
 
 张明 / tutorabc 高级架构师
 
-2017-12-09
+
 
 #### 个性化智能广告系统
 
@@ -640,4 +604,4 @@ tutorabc微服务平台架构实践
 
 张云锋 / 优酷 广告系统中心高级技术经理
 
-2017-12-10
+
